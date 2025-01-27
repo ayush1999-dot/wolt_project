@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+/bin/
+/pkg/
+/dist/
+
+# Dependency management files
+vendor/
+
+# IDE configurations (e.g., VSCode, JetBrains)
+.vscode/
+.idea/
+
+# Temporary or system files
+*.log
+*.tmp
+*.swp
+.DS_Store
